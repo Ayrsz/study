@@ -37,6 +37,10 @@ The main goal here is **continuous learning and training**. Each directory conta
 - **Focus:** Version control and workflow optimization.
 - **Content:** Best practices for Git, Branching, and Repo management.
 
+### 🚂 Jax
+- **Focus:** Fast tensor operations with JIT and VECTORIZE.
+- **Content:** Begin of the ideas of JAX and those advantages.
+
 ## 📈 Evolution
 This repository is updated as I advance in my studies. The folders for **Pytest** and **FastAPI** are placeholders for upcoming content as I re-study and refine my knowledge in these areas.
 
